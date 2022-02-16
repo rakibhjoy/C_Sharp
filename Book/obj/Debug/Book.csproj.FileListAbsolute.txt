@@ -1,0 +1,6 @@
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Book\bin\Debug\Book.exe.config
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Book\bin\Debug\Book.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Book\bin\Debug\Book.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Book\obj\Debug\Book.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Book\obj\Debug\Book.pdb

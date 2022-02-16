@@ -1,0 +1,6 @@
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Contact\bin\Debug\Contact.exe.config
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Contact\bin\Debug\Contact.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Contact\bin\Debug\Contact.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Contact\obj\Debug\Contact.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Contact\obj\Debug\Contact.pdb

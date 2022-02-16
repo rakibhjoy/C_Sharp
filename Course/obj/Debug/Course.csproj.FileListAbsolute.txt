@@ -1,0 +1,6 @@
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Course\bin\Debug\Course.exe.config
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Course\bin\Debug\Course.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Course\bin\Debug\Course.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Course\obj\Debug\Course.csprojResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Course\obj\Debug\Course.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Course\obj\Debug\Course.pdb

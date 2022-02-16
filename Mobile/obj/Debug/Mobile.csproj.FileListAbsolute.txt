@@ -1,0 +1,6 @@
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Mobile\bin\Debug\Mobile.exe.config
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Mobile\bin\Debug\Mobile.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Mobile\bin\Debug\Mobile.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Mobile\obj\Debug\Mobile.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Mobile\obj\Debug\Mobile.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\Account\Mobile\obj\Debug\Mobile.csprojResolveAssemblyReference.cache
