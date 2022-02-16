@@ -1,0 +1,6 @@
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\bin\Debug\DataAccessLayer_Market.dll
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\bin\Debug\DataAccessLayer_Market.pdb
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.csproj.AssemblyReference.cache
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.csproj.CoreCompileInputs.cache
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.dll
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.pdb
