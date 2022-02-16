@@ -1,0 +1,5 @@
+C:\Users\Asus\documents\visual studio 2013\Projects\Class_work\Class_task5\bin\Debug\Class_task5.exe.config
+C:\Users\Asus\documents\visual studio 2013\Projects\Class_work\Class_task5\bin\Debug\Class_task5.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Class_work\Class_task5\bin\Debug\Class_task5.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\Class_work\Class_task5\obj\Debug\Class_task5.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\Class_work\Class_task5\obj\Debug\Class_task5.pdb
